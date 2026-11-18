@@ -1,34 +1,28 @@
 [
   {
-    "id": "blackclover",
-    "title": "بلک کلاور فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/07/474e72ff-b8f0-4d18-85a0-24a665085ddb.webp?v=337",
-    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی و ویلیام وارد پادشاهی اسپید می‌شوند.",
-    "badge": "پیشنهاد ویژه",
-    "link": "https://www.aparat.com/v/xxxxx"
-  },
-  {
-    "id": "otar",
-    "title": "خاطرات یک عطار فصل سوم",
-    "poster": "https://animegate.net/storage/anime/images/2026/07/5fa5488b-8c8a-4a5b-9c37-d9a47e4bf407.webp?v=337",
-    "desc": "مائومائو پس از شورش به زندگی داروسازی بازمی‌گردد، اما صبحانه‌ای او را به تحقیق وامی‌دارد.",
-    "badge": "جدید",
-    "link": "https://www.aparat.com/v/yyyyy"
-  },
-  {
     "id": "avatar",
     "title": "آواتار هفت پناهگاه",
-    "poster": "https://animegate.net/storage/movie/images/2026/79.webp",
-    "desc": "داستان این سری از آواتار درباره دو خواهر دوقلو است که آواتاران بعد از کورا هستند.",
+    "poster": "https://raw.githubusercontent.com/blackgalaxy345467-jpg/Animeshadow88.github.io/main/posters/avatar.webp",
+    "desc": "در جهانی که بر اثر فاجعه‌ای ویرانگر از هم پاشیده است، دختری جوان که توانایی کنترل خاک را دارد، درمی‌یابد که آواتار جدید پس از کوراست...",
     "badge": "داغ",
-    "link": "https://www.aparat.com/v/zzzzz"
+    "season": "فصل ۱",
+    "episodes": [
+      { "title": "قسمت 1",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_1" },
+      { "title": "قسمت 2",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_2" },
+      { "title": "قسمت 3",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_3" },
+      { "title": "قسمت 4",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_4" }
+    ]
   },
   {
-    "id": "jujutsu",
-    "title": "جوجیتسو کایزن",
-    "poster": "https://animegate.net/storage/anime/images/1999/9666.webp?v=337",
-    "desc": "داستان یوجی ایتادوری و نبرد با نفرین‌ها.",
-    "badge": "در حال پخش",
-    "link": "https://www.aparat.com/v/aaaaa"
+    "id": "blackclover",
+    "title": "بلک کلاور فصل ۲",
+    "poster": "https://raw.githubusercontent.com/blackgalaxy345467-jpg/Animeshadow88.github.io/main/posters/blackclover.webp",
+    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی...",
+    "badge": "پیشنهاد ویژه",
+    "season": "فصل ۲",
+    "episodes": [
+      { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=FILE_ID_A" },
+      { "title": "قسمت 2", "link": "https://drive.google.com/uc?export=download&id=FILE_ID_B" }
+    ]
   }
 ]
