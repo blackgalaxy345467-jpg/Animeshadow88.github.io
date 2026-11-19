@@ -1,28 +1,60 @@
 [
   {
+    "id": "otar",
+    "title": "خاطرات یک دارو ساز فصل ۳",
+    "poster": "https://animegate.net/storage/anime/images/2026/07/5fa5488b-8c8a-4a5b-9c37-d9a47e4bf407.webp?v=337",
+    "desc": "مائومائو پس از شورش به زندگی داروسازی بازمی‌گردد، اما صبحانه‌ای او را به تحقیق وامی‌دارد.",
+    "badge": "ویژه",
+    "type": "featured",
+    "season": "فصل ۳",
+    "episodes": [
+      { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=1lwDEn93WPepAAcMw9O15mn7U7NwQqIZN" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "https://drive.google.com/uc?export=download&id=1H7K5Ojpjpvt-1BHuEm3XZbnAa3KtgK9n" },
+      { "title": "قسمت 4", "link": "https://drive.google.com/uc?export=download&id=1bANwLVJKpWR5_3A4P63ZnPT1lbxMGI1c" },
+      { "title": "قسمت 5", "link": "https://drive.google.com/uc?export=download&id=1e2dWRpQneo9oMXJdpLr8bPegWbQpeLCn" }
+    ]
+  },
+  {
     "id": "avatar",
     "title": "آواتار هفت پناهگاه",
-    "poster": "https://raw.githubusercontent.com/blackgalaxy345467-jpg/Animeshadow88.github.io/main/posters/avatar.webp",
-    "desc": "در جهانی که بر اثر فاجعه‌ای ویرانگر از هم پاشیده است، دختری جوان که توانایی کنترل خاک را دارد، درمی‌یابد که آواتار جدید پس از کوراست...",
-    "badge": "داغ",
+    "poster": "https://animegate.net/storage/movie/images/2026/79.webp",
+    "desc": "در جهانی که بر اثر فاجعه‌ای ویرانگر از هم پاشیده است، دختری جوان که توانایی کنترل خاک را دارد، درمی‌یابد که آواتار جدید پس از کوراست.",
+    "badge": "ویژه",
+    "type": "featured",
     "season": "فصل ۱",
     "episodes": [
-      { "title": "قسمت 1",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_1" },
-      { "title": "قسمت 2",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_2" },
-      { "title": "قسمت 3",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_3" },
-      { "title": "قسمت 4",  "link": "https://drive.google.com/uc?export=download&id=FILE_ID_4" }
+      { "title": "قسمت 1", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=4&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 2", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=5&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 3", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=6&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 4", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=7&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 5", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=8&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 6", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=9&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 7", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=10&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 8", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=11&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 9", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=12&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 10", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=13&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 11", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=14&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 12", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=15&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+      { "title": "قسمت 13", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=16&format=mp4&quality=4&src=GF_AG_ZARDF_40407" }
     ]
   },
   {
     "id": "blackclover",
-    "title": "بلک کلاور فصل ۲",
-    "poster": "https://raw.githubusercontent.com/blackgalaxy345467-jpg/Animeshadow88.github.io/main/posters/blackclover.webp",
-    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی...",
-    "badge": "پیشنهاد ویژه",
+    "title": "شبدر سیاه فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2026/07/474e72ff-b8f0-4d18-85a0-24a665085ddb.webp?v=337",
+    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی و ویلیام وارد پادشاهی اسپید می‌شوند.",
+    "badge": "ویژه",
+    "type": "featured",
     "season": "فصل ۲",
     "episodes": [
-      { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=FILE_ID_A" },
-      { "title": "قسمت 2", "link": "https://drive.google.com/uc?export=download&id=FILE_ID_B" }
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" }
     ]
   }
 ]
