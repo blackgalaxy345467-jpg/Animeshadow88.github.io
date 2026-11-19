@@ -129,5 +129,167 @@
       { "title": "قسمت 5", "link": "" },
       { "title": "قسمت 6", "link": "" }
     ]
+  },
+  {
+    "id": "jujutsu3",
+    "title": "جوجیتسو کایزن فصل ۳",
+    "poster": "https://animegate.net/storage/anime/images/2024/10/76560344-9899-4672-b5c5-21af4056175b.webp?v=337",
+    "desc": "ادامه ماجراهای یوجی ایتادوری و جادوگران جوجیتسو در نبرد با نفرین‌ها.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۳",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" }
+    ]
+  },
+  {
+    "id": "hellsparadise2",
+    "title": "بهشت جهنمیان فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2023/07/1688582612-48663686582355.webp?v=337",
+    "desc": "ادامه داستان شینوبی‌ها و مبارزه با نیروهای تاریک در دنیایی پر از راز و خطر.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۲",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" }
+    ]
+  },
+  {
+    "id": "allrounder",
+    "title": "همه فن حریف",
+    "poster": "https://animegate.net/storage/anime/images/2025/10/415deb36-ec97-4cdc-a8c7-aafc31a298eb.webp?v=337",
+    "desc": "داستان پسری که در دنیایی پر از مهارت‌های خاص، به دنبال رسیدن به قله قدرت است.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۱",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" }
+    ]
+  },
+  {
+    "id": "deadaccount",
+    "title": "اکانت مرده",
+    "poster": "https://animegate.net/storage/anime/images/2025/10/ef40cc12-5253-4260-9ff9-6e136c16b943.webp?v=337",
+    "desc": "داستانی مرموز درباره حساب کاربری‌ای که پس از مرگ صاحبش، همچنان فعال است.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۱",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" }
+    ]
+  },
+  {
+    "id": "startafterend2",
+    "title": "شروع پس از پایان فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2026/01/3966235a-6e86-40ec-bfbd-d150488d4619.webp?v=337",
+    "desc": "ادامه داستان قهرمانانی که پس از نبردی سخت، زندگی جدیدی را آغاز می‌کنند.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۲",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" }
+    ]
+  },
+  {
+    "id": "reincarnationidle3",
+    "title": "تناسخ یک بیکار فصل ۳",
+    "poster": "https://animegate.net/storage/anime/images/2024/10/ab66b9aa-b501-4ec4-a8c9-0d9f9de31ca7.webp?v=337",
+    "desc": "ادامه داستان قهرمانی که پس از تناسخ، در دنیایی جدید به ماجراجویی می‌پردازد.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۳",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" },
+      { "title": "قسمت 11", "link": "" },
+      { "title": "قسمت 12", "link": "" },
+      { "title": "قسمت 13", "link": "" },
+      { "title": "قسمت 14", "link": "" }
+    ]
+  },
+  {
+    "id": "bleachtybw",
+    "title": "بلیچ: جنگ خونین هزار ساله",
+    "poster": "https://animegate.net/storage/anime/images/2026/01/fa4a9d87-78d3-4ebf-81ef-c4914037cb4d.webp?v=337",
+    "desc": "ایچیگو و متحدانش در نبردی حماسی علیه کوئینسی‌ها و یهوا باخ قرار می‌گیرند.",
+    "badge": "محبوب",
+    "types": ["popular"],
+    "season": "فصل ۱",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" },
+      { "title": "قسمت 8", "link": "" },
+      { "title": "قسمت 9", "link": "" },
+      { "title": "قسمت 10", "link": "" }
+    ]
   }
 ]
+
