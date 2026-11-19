@@ -5,7 +5,7 @@
     "poster": "https://animegate.net/storage/anime/images/2026/07/5fa5488b-8c8a-4a5b-9c37-d9a47e4bf407.webp?v=337",
     "desc": "مائومائو پس از شورش به زندگی داروسازی بازمی‌گردد، اما صبحانه‌ای او را به تحقیق وامی‌دارد.",
     "badge": "ویژه",
-    "type": "featured",
+    "types": ["featured", "ongoing"],
     "season": "فصل ۳",
     "episodes": [
       { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=1lwDEn93WPepAAcMw9O15mn7U7NwQqIZN" },
@@ -18,12 +18,30 @@
     ]
   },
   {
+    "id": "blackclover",
+    "title": "شبدر سیاه فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2026/07/474e72ff-b8f0-4d18-85a0-24a665085ddb.webp?v=337",
+    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی و ویلیام وارد پادشاهی اسپید می‌شوند.",
+    "badge": "ویژه",
+    "types": ["featured", "ongoing"],
+    "season": "فصل ۲",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" }
+    ]
+  },
+  {
     "id": "avatar",
     "title": "آواتار هفت پناهگاه",
     "poster": "https://animegate.net/storage/movie/images/2026/79.webp",
     "desc": "در جهانی که بر اثر فاجعه‌ای ویرانگر از هم پاشیده است، دختری جوان که توانایی کنترل خاک را دارد، درمی‌یابد که آواتار جدید پس از کوراست.",
     "badge": "ویژه",
-    "type": "featured",
+    "types": ["featured"],
     "season": "فصل ۱",
     "episodes": [
       { "title": "قسمت 1", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=4&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
@@ -42,12 +60,48 @@
     ]
   },
   {
-    "id": "blackclover",
-    "title": "شبدر سیاه فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/07/474e72ff-b8f0-4d18-85a0-24a665085ddb.webp?v=337",
-    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی و ویلیام وارد پادشاهی اسپید می‌شوند.",
-    "badge": "ویژه",
-    "type": "featured",
+    "id": "tokyorevengers4",
+    "title": "توکیو رونجر فصل ۴",
+    "poster": "https://animegate.net/storage/anime/images/2024/10/aaafda80-1192-463f-b33d-de620bf2688e.webp?v=337",
+    "desc": "توکیو رونجرها در فصل جدید با دشمنان تازه‌ای روبرو می‌شوند و تاکمیچی باید برای نجات دوستانش بجنگد.",
+    "badge": "در حال پخش",
+    "types": ["ongoing"],
+    "season": "فصل ۴",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" }
+    ]
+  },
+  {
+    "id": "tougenanki",
+    "title": "توگن آنکی",
+    "poster": "https://animegate.net/storage/anime/images/2026/08/eb662c6d-3ce4-46d6-a9b3-08336bb83c98.webp?v=337",
+    "desc": "داستان مبارزان و شمشیرزنان در ژاپن فئودالی با روایتی پر از اکشن و درام.",
+    "badge": "در حال پخش",
+    "types": ["ongoing"],
+    "season": "فصل ۱",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" },
+      { "title": "قسمت 7", "link": "" }
+    ]
+  },
+  {
+    "id": "aoshi2",
+    "title": "آئواشی فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2026/08/71da3850-8595-48f7-9f5d-26d9a9bcc10b.webp?v=337",
+    "desc": "داستان آئواشی، بازیکن فوتبال جوانی که برای رسیدن به رؤیای حرفه‌ای‌اش تلاش می‌کند.",
+    "badge": "در حال پخش",
+    "types": ["ongoing"],
     "season": "فصل ۲",
     "episodes": [
       { "title": "قسمت 1", "link": "" },
@@ -57,6 +111,23 @@
       { "title": "قسمت 5", "link": "" },
       { "title": "قسمت 6", "link": "" },
       { "title": "قسمت 7", "link": "" }
+    ]
+  },
+  {
+    "id": "iceblade2",
+    "title": "جادوگر تیغه یخی فصل ۲",
+    "poster": "https://animegate.net/storage/anime/images/2026/08/09649296-12fd-46ba-827f-06ed9fc45a89.webp?v=337",
+    "desc": "داستان جادوگری که با شمشیر یخی خود به مبارزه با نیروهای تاریک می‌رود.",
+    "badge": "در حال پخش",
+    "types": ["ongoing"],
+    "season": "فصل ۲",
+    "episodes": [
+      { "title": "قسمت 1", "link": "" },
+      { "title": "قسمت 2", "link": "" },
+      { "title": "قسمت 3", "link": "" },
+      { "title": "قسمت 4", "link": "" },
+      { "title": "قسمت 5", "link": "" },
+      { "title": "قسمت 6", "link": "" }
     ]
   }
 ]
