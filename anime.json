@@ -1,295 +1,210 @@
 [
-  {
-    "id": "otar",
-    "title": "خاطرات یک دارو ساز فصل ۳",
-    "poster": "https://animegate.net/storage/anime/images/2026/07/5fa5488b-8c8a-4a5b-9c37-d9a47e4bf407.webp?v=337",
-    "desc": "مائومائو پس از شورش به زندگی داروسازی بازمی‌گردد، اما صبحانه‌ای او را به تحقیق وامی‌دارد.",
-    "badge": "ویژه",
-    "types": ["featured", "ongoing"],
-    "season": "فصل ۳",
-    "episodes": [
-      { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=1lwDEn93WPepAAcMw9O15mn7U7NwQqIZN" },
-      { "title": "قسمت 2", "link": "https://drive.google.com/file/d/1ePtCprsBkpKb_o_CUXtdKzGAvb95cxyP/view?usp=sharing" },
-      { "title": "قسمت 3", "link": "https://drive.google.com/uc?export=download&id=1H7K5Ojpjpvt-1BHuEm3XZbnAa3KtgK9n" },
-      { "title": "قسمت 4", "link": "https://drive.google.com/uc?export=download&id=1bANwLVJKpWR5_3A4P63ZnPT1lbxMGI1c" },
-      { "title": "قسمت 5", "link": "https://drive.google.com/uc?export=download&id=1e2dWRpQneo9oMXJdpLr8bPegWbQpeLCn" },
-      { "title": "قسمت 6", "link": "https://drive.google.com/file/d/1ec5r-dRmAxVAPM8ZAKOp5eBsyDzjWVyh/view?usp=sharing" },
-      { "title": "قسمت 7", "link": "https://drive.google.com/file/d/1-LwxcQQV_yw42SIwlZOCaFqubq8kg3KX/view?usp=sharing" }
-    ]
-  },
-  {
-    "id": "blackclover",
-    "title": "شبدر سیاه فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/07/474e72ff-b8f0-4d18-85a0-24a665085ddb.webp?v=337",
-    "desc": "شوالیه‌های جادویی برای نجات فرمانده یامی و ویلیام وارد پادشاهی اسپید می‌شوند.",
-    "badge": "ویژه",
-    "types": ["featured", "ongoing"],
-    "season": "فصل ۲",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" }
-    ]
-  },
-  {
-    "id": "avatar",
-    "title": "آواتار هفت پناهگاه",
-    "poster": "https://animegate.net/storage/movie/images/2026/79.webp",
-    "desc": "در جهانی که بر اثر فاجعه‌ای ویرانگر از هم پاشیده است، دختری جوان که توانایی کنترل خاک را دارد، درمی‌یابد که آواتار جدید پس از کوراست.",
-    "badge": "ویژه",
-    "types": ["featured"],
-    "season": "فصل ۱",
-    "episodes": [
-      { "title": "قسمت 1", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=4&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 2", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=5&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 3", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=6&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 4", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=7&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 5", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=8&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 6", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=9&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 7", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=10&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 8", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=11&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 9", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=12&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 10", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=13&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 11", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=14&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 12", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=15&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
-      { "title": "قسمت 13", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=16&format=mp4&quality=4&src=GF_AG_ZARDF_40407" }
-    ]
-  },
-  {
-    "id": "tokyorevengers4",
-    "title": "توکیو رونجر فصل ۴",
-    "poster": "https://animegate.net/storage/anime/images/2024/10/aaafda80-1192-463f-b33d-de620bf2688e.webp?v=337",
-    "desc": "توکیو رونجرها در فصل جدید با دشمنان تازه‌ای روبرو می‌شوند و تاکمیچی باید برای نجات دوستانش بجنگد.",
-    "badge": "در حال پخش",
-    "types": ["ongoing"],
-    "season": "فصل ۴",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" }
-    ]
-  },
-  {
-    "id": "tougenanki",
-    "title": "توگن آنکی",
-    "poster": "https://animegate.net/storage/anime/images/2026/08/eb662c6d-3ce4-46d6-a9b3-08336bb83c98.webp?v=337",
-    "desc": "داستان مبارزان و شمشیرزنان در ژاپن فئودالی با روایتی پر از اکشن و درام.",
-    "badge": "در حال پخش",
-    "types": ["ongoing"],
-    "season": "فصل ۱",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" }
-    ]
-  },
-  {
-    "id": "aoshi2",
-    "title": "آئواشی فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/08/71da3850-8595-48f7-9f5d-26d9a9bcc10b.webp?v=337",
-    "desc": "داستان آئواشی، بازیکن فوتبال جوانی که برای رسیدن به رؤیای حرفه‌ای‌اش تلاش می‌کند.",
-    "badge": "در حال پخش",
-    "types": ["ongoing"],
-    "season": "فصل ۲",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" }
-    ]
-  },
-  {
-    "id": "iceblade2",
-    "title": "جادوگر تیغه یخی فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/08/09649296-12fd-46ba-827f-06ed9fc45a89.webp?v=337",
-    "desc": "داستان جادوگری که با شمشیر یخی خود به مبارزه با نیروهای تاریک می‌رود.",
-    "badge": "در حال پخش",
-    "types": ["ongoing"],
-    "season": "فصل ۲",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" }
-    ]
-  },
-  {
-    "id": "jujutsu3",
-    "title": "جوجیتسو کایزن فصل ۳",
-    "poster": "https://animegate.net/storage/anime/images/2024/10/76560344-9899-4672-b5c5-21af4056175b.webp?v=337",
-    "desc": "ادامه ماجراهای یوجی ایتادوری و جادوگران جوجیتسو در نبرد با نفرین‌ها.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۳",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" }
-    ]
-  },
-  {
-    "id": "hellsparadise2",
-    "title": "بهشت جهنمیان فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2023/07/1688582612-48663686582355.webp?v=337",
-    "desc": "ادامه داستان شینوبی‌ها و مبارزه با نیروهای تاریک در دنیایی پر از راز و خطر.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۲",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" }
-    ]
-  },
-  {
-    "id": "allrounder",
-    "title": "همه فن حریف",
-    "poster": "https://animegate.net/storage/anime/images/2025/10/415deb36-ec97-4cdc-a8c7-aafc31a298eb.webp?v=337",
-    "desc": "داستان پسری که در دنیایی پر از مهارت‌های خاص، به دنبال رسیدن به قله قدرت است.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۱",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" }
-    ]
-  },
-  {
-    "id": "deadaccount",
-    "title": "اکانت مرده",
-    "poster": "https://animegate.net/storage/anime/images/2025/10/ef40cc12-5253-4260-9ff9-6e136c16b943.webp?v=337",
-    "desc": "داستانی مرموز درباره حساب کاربری‌ای که پس از مرگ صاحبش، همچنان فعال است.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۱",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" }
-    ]
-  },
-  {
-    "id": "startafterend2",
-    "title": "شروع پس از پایان فصل ۲",
-    "poster": "https://animegate.net/storage/anime/images/2026/01/3966235a-6e86-40ec-bfbd-d150488d4619.webp?v=337",
-    "desc": "ادامه داستان قهرمانانی که پس از نبردی سخت، زندگی جدیدی را آغاز می‌کنند.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۲",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" }
-    ]
-  },
-  {
-    "id": "reincarnationidle3",
-    "title": "تناسخ یک بیکار فصل ۳",
-    "poster": "https://animegate.net/storage/anime/images/2024/10/ab66b9aa-b501-4ec4-a8c9-0d9f9de31ca7.webp?v=337",
-    "desc": "ادامه داستان قهرمانی که پس از تناسخ، در دنیایی جدید به ماجراجویی می‌پردازد.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۳",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" },
-      { "title": "قسمت 11", "link": "" },
-      { "title": "قسمت 12", "link": "" },
-      { "title": "قسمت 13", "link": "" },
-      { "title": "قسمت 14", "link": "" }
-    ]
-  },
-  {
-    "id": "bleachtybw",
-    "title": "بلیچ: جنگ خونین هزار ساله",
-    "poster": "https://animegate.net/storage/anime/images/2026/01/fa4a9d87-78d3-4ebf-81ef-c4914037cb4d.webp?v=337",
-    "desc": "ایچیگو و متحدانش در نبردی حماسی علیه کوئینسی‌ها و یهوا باخ قرار می‌گیرند.",
-    "badge": "محبوب",
-    "types": ["popular"],
-    "season": "فصل ۱",
-    "episodes": [
-      { "title": "قسمت 1", "link": "" },
-      { "title": "قسمت 2", "link": "" },
-      { "title": "قسمت 3", "link": "" },
-      { "title": "قسمت 4", "link": "" },
-      { "title": "قسمت 5", "link": "" },
-      { "title": "قسمت 6", "link": "" },
-      { "title": "قسمت 7", "link": "" },
-      { "title": "قسمت 8", "link": "" },
-      { "title": "قسمت 9", "link": "" },
-      { "title": "قسمت 10", "link": "" }
-    ]
-  }
-]
-
+    {
+      "id": "otar",
+      "episodes": [
+        { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=1lwDEn93WPepAAcMw9O15mn7U7NwQqIZN" },
+        { "title": "قسمت 2", "link": "https://drive.google.com/uc?export=download&id=1ePtCprsBkpKb_o_CUXtdKzGAvb95cxyP" },
+        { "title": "قسمت 3", "link": "https://drive.google.com/uc?export=download&id=1H7K5Ojpjpvt-1BHuEm3XZbnAa3KtgK9n" },
+        { "title": "قسمت 4", "link": "https://drive.google.com/uc?export=download&id=1bANwLVJKpWR5_3A4P63ZnPT1lbxMGI1c" },
+        { "title": "قسمت 5", "link": "https://drive.google.com/uc?export=download&id=1e2dWRpQneo9oMXJdpLr8bPegWbQpeLCn" },
+        { "title": "قسمت 6", "link": "https://drive.google.com/uc?export=download&id=1ec5r-dRmAxVAPM8ZAKOp5eBsyDzjWVyh" },
+        { "title": "قسمت 7", "link": "https://drive.google.com/uc?export=download&id=1-LwxcQQV_yw42SIwlZOCaFqubq8kg3KX" }
+      ]
+    },
+    {
+      "id": "blackclover",
+      "episodes": [
+        { "title": "قسمت 1", "link": "https://drive.google.com/uc?export=download&id=1aIxTaDpGeyVpHLcSpPJ83VIKyTVfP2WA" },
+        { "title": "قسمت 2", "link": "https://drive.google.com/uc?export=download&id=1awUNwLEgB6N0BPKHWf3ZfjxgPh4OUl-i" },
+        { "title": "قسمت 3", "link": "https://drive.google.com/file/d/1pXL_alXg2-jsbocL3e4nazuV2ExVB4M-/view?usp=sharing" },
+        { "title": "قسمت 4", "link": "https://drive.google.com/file/d/1xzEMqvpF-VR4iZBFxH_JQkkEmFp5JrrU/view?usp=sharing" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" }
+      ]
+    },
+    {
+      "id": "avatar",
+      "episodes": [
+        { "title": "قسمت 1", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=4&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 2", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=5&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 3", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=6&format=mp4&quality=4&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 4", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=7&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 5", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=8&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 6", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=9&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 7", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=10&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 8", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=11&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 9", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=12&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 10", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=13&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 11", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=14&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 12", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=15&format=mp4&quality=5&src=GF_AG_ZARDF_40407" },
+        { "title": "قسمت 13", "link": "https://z2fwzmlsbwrvd25sb2fkcw.gapfilm.ir/download/ZARDFILM/31847?season=1&episode=16&format=mp4&quality=4&src=GF_AG_ZARDF_40407" }
+      ]
+    },
+    {
+      "id": "tokyorevengers4",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" }
+      ]
+    },
+    {
+      "id": "tougenanki",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" }
+      ]
+    },
+    {
+      "id": "aoshi2",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" }
+      ]
+    },
+    {
+      "id": "iceblade2",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" }
+      ]
+    },
+    {
+      "id": "jujutsu3",
+      "episodes": [
+        { "title": "قسمت 1", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtU29jMktFNmlUV0FRZE5WOTVIK0RVdz0=/anime-20746-1-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(1).mkv" },
+        { "title": "قسمت 2", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtUUN0VkFHKzZuem5wL1pQOHpldzd4VT0=/anime-20746-2-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(2).mkv" },
+        { "title": "قسمت 3", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtWWpDVU5sSC9aNURDZlRFbWVFTkd0ST0=/anime-20746-3-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(3).mkv" },
+        { "title": "قسمت 4", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtZTRFVFVZbmYyb2NPNWZ2cEhRei9yND0=/anime-20746-4-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(4).mkv" },
+        { "title": "قسمت 5", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtZmNNNWxuM0FkRElPakx6NGhVdTU0dz0=/anime-20746-5-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(5).mkv" },
+        { "title": "قسمت 6", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtWDBaZW11cmUwS0NTeCtuYWpkQWwvdz0=/anime-20746-6-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(6).mkv" },
+        { "title": "قسمت 7", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtZEMzN3hESVI5dWppZkZEcWxRWHcydz0=/anime-20746-7-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(7).mkv" },
+        { "title": "قسمت 8", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtVkg5UUtZYmx3SEZzaUoxUE85V0lWdz0=/anime-20746-8-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(8).mkv" },
+        { "title": "قسمت 9", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtYU8rVzVEbXIzQS8rTU16b3JvSHhNUT0=/anime-20746-9-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(9).mkv" },
+        { "title": "قسمت 10", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtY29nTTgzZUhtZTVUcHliUmprWFh0RT0=/anime-20746-10-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(10).mkv" },
+        { "title": "قسمت 11", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtYWUxSStsOE4wS1hNbHU5bk9NSUh0TT0=/anime-20746-11-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(11).mkv" },
+        { "title": "قسمت 12", "link": "https://host3.gate-server-1.ir/download/cjBhcENBVm4ySnYrWlZiUkRuazVtUWpsMnFOVVhNL2VUWm0va2lCZ1g2Yz0=/anime-20746-12-337/20261122/series/2026/Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen/hardsub/480/%5B@AnimeGateOfficial%5D%20Jujutsu%20Kaisen%20Shimetsu%20Kaiyuu%20-%20Zenpen%20-%20(12).mkv" }
+      ]
+    },
+    {
+      "id": "hellsparadise2",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" },
+        { "title": "قسمت 11", "link": "" },
+        { "title": "قسمت 12", "link": "" }
+      ]
+    },
+    {
+      "id": "allrounder",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" },
+        { "title": "قسمت 11", "link": "" },
+        { "title": "قسمت 12", "link": "" }
+      ]
+    },
+    {
+      "id": "deadaccount",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" },
+        { "title": "قسمت 11", "link": "" },
+        { "title": "قسمت 12", "link": "" }
+      ]
+    },
+    {
+      "id": "startafterend2",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" },
+        { "title": "قسمت 11", "link": "" },
+        { "title": "قسمت 12", "link": "" }
+      ]
+    },
+    {
+      "id": "reincarnationidle3",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" },
+        { "title": "قسمت 11", "link": "" },
+        { "title": "قسمت 12", "link": "" },
+        { "title": "قسمت 13", "link": "" },
+        { "title": "قسمت 14", "link": "" }
+      ]
+    },
+    {
+      "id": "bleachtybw",
+      "episodes": [
+        { "title": "قسمت 1", "link": "" },
+        { "title": "قسمت 2", "link": "" },
+        { "title": "قسمت 3", "link": "" },
+        { "title": "قسمت 4", "link": "" },
+        { "title": "قسمت 5", "link": "" },
+        { "title": "قسمت 6", "link": "" },
+        { "title": "قسمت 7", "link": "" },
+        { "title": "قسمت 8", "link": "" },
+        { "title": "قسمت 9", "link": "" },
+        { "title": "قسمت 10", "link": "" }
+      ]
+    }
+  ]
